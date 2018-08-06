@@ -1,0 +1,12 @@
+name: Jobs
+version: 1.0.2
+author: Progamer260
+main: me.progamer260.jobs.Main
+depend: [JobAPI]
+commands:
+    job:
+      description: Core command for JobsAPI
+    jobs_list:
+      description: Displays the list of jobs
+    jb:
+      description: Displays info about the plugin
